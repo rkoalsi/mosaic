@@ -38,7 +38,9 @@ body {
 header {
   text-align: center;
 }
-
+h2 {
+  padding: 35px;
+}
 header .logo {
   height: 32px;
   box-sizing: content-box;
