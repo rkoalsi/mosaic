@@ -97,7 +97,7 @@ header .logo {
   pointer-events: none;
   padding: 0;
   margin: 0 0 -6px 0;
-  overflow: hidden;
+  overflow: scroll;
 }
 #starfield canvas {
   padding: 0;
